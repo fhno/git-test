@@ -8,4 +8,7 @@ public class GitTest {
         System.out.println("hello git project");
         System.out.println("hello git project");
     }
+    public void test(){
+        System.out.println("修改");
+    }
 }
